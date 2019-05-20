@@ -432,8 +432,7 @@ WG11 Glossary
  
 
 companies glossary 
-- from charlie fink book pdf here (we’re ok to use that no public distribution of that link on social)
-https://drive.google.com/file/d/1jQG3wrNP_RK9c8y7s-sus1g4ekC_eObv/view
+
 created by charlie, blessed by companies he included. (i think)
 
 6D.ai
