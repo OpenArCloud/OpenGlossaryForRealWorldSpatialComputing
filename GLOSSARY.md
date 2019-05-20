@@ -603,8 +603,6 @@ ________________________________________
 
 FYI, - dave lorenzini note….this won’t be included but fyi, here’s the index to fink’s book for ideas of what to define + fast way to see what was written on it. 
 
-link to book pdf here:   https://drive.google.com/file/d/1jQG3wrNP_RK9c8y7s-sus1g4ekC_eObv/view
-
 19 Crimes wine 224
 1964 World’s Fair in New York 19, 201
 1984 (book) 237
